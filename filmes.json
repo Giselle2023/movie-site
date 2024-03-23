@@ -1,0 +1,78 @@
+
+[
+    {
+        "nome":"a era de ouro",
+        "poster":"/src/img/a-era-de-ouro.jpg",
+        "info":{
+            "diretor":null,
+            "ano":2024,
+            "duracao":null
+        }
+    },
+    {
+        "nome":"eduardo e mônica",
+        "poster":"/src/img/eduardo-e-monica.jpg"
+    },
+    {
+        "nome":"ela",
+        "poster":"/src/img/ela.jpg"
+    },
+    {
+        "nome":"farofeiros",
+        "poster":"src/img/farofeiros.png"
+    },
+    {
+        "nome":"fazendo meu filme",
+        "poster":"src/img/fazendo-meu-filme-poster.jpg"
+    },
+    {
+        "nome":"harry Potter Pedra Filosofal",
+        "poster":"src/img/harry-potter-pedra-filosofal.jpg"
+    },
+    {
+        "nome":"indiana Jones",
+        "poster":"src/img/indiana-jones.jpg"
+    },
+    {
+        "nome":"interestelar",
+        "poster":"src/img/interestelar.jpg"
+    },
+    {
+        "nome":"kung Fu Panda 4",
+        "poster":"src/img/kung-fu-panda-4.jpg"
+    },
+    {
+        "nome":"madame Teia",
+        "poster":"src/img/madame-teia.jpg"
+    },
+    {
+        "nome":"o menino e a Garça",
+        "poster":"src/img/o-menino-e-a-garcia.png"
+    },
+    {
+        "nome":"o reino Gelado",
+        "poster":"src/img/o-reino-gelado.jpg"
+    },
+    {
+        "nome":"patos",
+        "poster":"src/img/patos.jpg"
+    },
+    {
+        "nome":"uma vida",
+        "poster":"src/img/uma-vida.jpg"
+    },
+    {
+        "nome":"venon",
+        "poster":"src/img/venon.jpg"
+    },
+    {
+        "nome":"wish",
+        "poster":"src/img/wish.jpg"
+    },
+    {
+        "nome":"wonka",
+        "poster":"src/img/wonka.jpg"
+    }
+  
+]
+

@@ -1,0 +1,50 @@
+body {
+  background-color: #242e37;
+}
+body header {
+  position: fixed;
+  top: 0;
+  background-color: #1b2229;
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+}
+body header input {
+  width: 360px;
+  padding: 0.5rem;
+  border-radius: 8px;
+  outline: none;
+}
+body header button {
+  padding: 0.5rem;
+  cursor: pointer;
+  background-color: rgb(219, 22, 22);
+  border: none;
+}
+body main {
+  margin-top: 5.5rem;
+  padding: 0 0.5rem;
+}
+body .container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.7rem;
+  box-sizing: border-box;
+}
+body .container .card {
+  background: rgba(26, 33, 40, 0.7764705882);
+  width: 200px;
+  text-align: center;
+  color: white;
+  padding: 1rem;
+  box-sizing: border-box;
+  cursor: pointer;
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.126);
+}
+body .container .card .img {
+  width: 150px;
+}
+body .container .card h3 {
+  margin-top: 1rem;
+}/*# sourceMappingURL=style.css.map */
